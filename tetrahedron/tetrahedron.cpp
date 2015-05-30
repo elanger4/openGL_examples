@@ -2,6 +2,7 @@
 #include <GL/glut.h>
 
 // Clears window and draws tetrahedron.
+//testing get pushes
 void display()
 {
 	glClear(GL_COLOR_BUFFER_BIT);
